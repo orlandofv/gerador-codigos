@@ -14,21 +14,18 @@ Este projeto é uma aplicação de **desktop multiplataforma** desenvolvida em *
 - ✅ Interface moderna com ícones via **QtAwesome**.  
 - ✅ Compatível com **Windows, macOS e Linux**.  
 
----
-
 ## 💡 Vantagens Principais
 
--- Simplicidade → Interface limpa e fácil de usar, mesmo para utilizadores sem conhecimentos técnicos.
--- Flexibilidade → Suporta diferentes formatos (QR Code, EAN13, Code128).
--- Exportação Profissional → Guardar os códigos em imagem ou PDF.
--- Experiência Moderna → Temas claro/escuro e ícones intuitivos.
--- Portabilidade → Funciona em qualquer sistema operativo com Python instalado.
----
+- Simplicidade → Interface limpa e fácil de usar, mesmo para utilizadores sem conhecimentos técnicos.  
+- Flexibilidade → Suporta diferentes formatos (QR Code, EAN13, Code128).  
+- Exportação Profissional → Guardar os códigos em imagem ou PDF.  
+- Experiência Moderna → Temas claro/escuro e ícones intuitivos.  
+- Portabilidade → Funciona em qualquer sistema operativo com Python instalado.  
 
 ## 📜 Licença
 
--- Este projeto é distribuído sob a licença MIT.
--- Sinta-se livre para usar, modificar e partilhar.
+- Este projeto é distribuído sob a licença MIT.  
+- Sinta-se livre para usar, modificar e partilhar.  
 
 ---
 
