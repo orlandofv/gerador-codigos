@@ -16,9 +16,29 @@ Este projeto é uma aplicação de **desktop multiplataforma** desenvolvida em *
 
 ---
 
-## 🚀 Instalação
+## 💡 Vantagens Principais
+
+-- Simplicidade → Interface limpa e fácil de usar, mesmo para utilizadores sem conhecimentos técnicos.
+-- Flexibilidade → Suporta diferentes formatos (QR Code, EAN13, Code128).
+-- Exportação Profissional → Guardar os códigos em imagem ou PDF.
+-- Experiência Moderna → Temas claro/escuro e ícones intuitivos.
+-- Portabilidade → Funciona em qualquer sistema operativo com Python instalado.
+---
+
+## 📜 Licença
+
+-- Este projeto é distribuído sob a licença MIT.
+-- Sinta-se livre para usar, modificar e partilhar.
+
+---
+
+## 🚀 Instalação e Execução
 
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/orlandofv/gerador-codigos.git
 cd gerador-codigos
+pip install -r requirements.txt
+
+python main.py
+
